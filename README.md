@@ -48,6 +48,7 @@ const ErfanYousefi = {
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
+    <img alt="React" src="https://img.shields.io/badge/-react-46a2f1?style=flat-square&logo=react&logoColor=white" />
 </p>
 
 
