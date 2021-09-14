@@ -49,7 +49,7 @@ const ErfanYousefi = {
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React.js-66a2f7?style=flat-square&logo=react&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/-Next.js-f7f7f7?style=flat-square&logo=Next&logoColor=black" />
+  <img alt="React" src="https://img.shields.io/badge/-Next.js-%23232F3E?style=flat-square&logo=next.js&logoColor=white" />
 </p>
 
 
