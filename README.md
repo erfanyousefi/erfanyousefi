@@ -34,7 +34,8 @@ const ErfanYousefi = {
 
 ## Expertise
 <p>
-  <img alt="LiveStream" src="https://img.shields.io/static/v1?style=for-the-badge&message=Vimeo+Livestream&color=0A0A20&logo=Vimeo+Livestream&logoColor=FFFFFF&label=" />
+  <img alt="Fastify" src="https://img.shields.io/static/v1?style=for-the-badge&message=Fastify&color=000000&logo=Fastify&logoColor=FFFFFF&label=" />
+    <img alt="Koa" src="https://img.shields.io/static/v1?style=for-the-badge&message=Koa&color=33333D&logo=Koa&logoColor=FFFFFF&label=" />
   <img alt="gRPC" src="https://img.shields.io/badge/gRPC%20-%236DB33F.svg?&style=flat-square&logo=grpc&logoColor=orange&color=orange" />
   <img alt="RabbitMQ" src="https://img.shields.io/static/v1?style=for-the-badge&message=RabbitMQ&color=FF6600&logo=RabbitMQ&logoColor=FFFFFF&label=" />
   <img alt="Swagger" src="https://img.shields.io/static/v1?style=for-the-badge&message=Swagger&color=222222&logo=Swagger&logoColor=85EA2D&label=" />
