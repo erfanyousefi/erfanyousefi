@@ -26,7 +26,7 @@ const ErfanYousefi = {
         devOps: ["Docker🐳"],               
    },    
    currentFocus: "Node.js Web Development",     
-   funFact: "Bug's and Errors are best my friends" 
+   funFact: "Bug's and Errors are my best friends" 
 };
 ```
 
