@@ -21,7 +21,7 @@ const ErfanYousefi = {
           
         },         
         frontEnd: {             
-          web: ["i'm not front-en developer 😁😁😁"],         
+          web: ["i'm not front-end developer 😁😁😁", "My friends call me a bug fixer 😂"],         
         },         
         devOps: ["Docker🐳"],               
    },    
