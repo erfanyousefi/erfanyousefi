@@ -1,69 +1,65 @@
-### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+<h1 align="left">Hey 👋 What's up?</h1>
 
-I am a web Developer and software engineer from Kurdistan 
+<p align="left">My name's Erfan Yousefi, I'm from Kurdistan</p>
 
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
-```javascript
-const ErfanYousefi = {     
-    pronouns: "He" | "Him",     
-    aboutMe: "I'm Node.js Developer from Botostart.ir"
-    language: ["javaScript", "typeScript"] // Node.js,         
-    myStack: {             
-        backEnd: {             
-          frameworks: ["Express.js", "fastify", "koa.js", "Nest.js"],                   
-          microServiceTools: ["gRPC", "RabbitMQ", "Kafka"],
-          realTimeTools: ["socket.io", "webSocket"],
-          DataBases: ["MongoDB", "MySQL", "Redis", "ElasticSearch"],
-          architectures: ["MVC", "onion", "clean", "SOLID"],
-          API: ["postman", "insomnia", "swagger", "openAPI"],
-          
-        },         
-        frontEnd: {             
-          web: ["i'm not front-end developer 😁😁😁", "My friends call me a bug fixer 😂"],         
-        },         
-        devOps: ["Docker🐳"],               
-   },    
-   currentFocus: "Node.js Web Development",     
-   funFact: "Bug's and Errors are my best friends" 
-};
-```
-
-<br>
-
-## Expertise
-<p>
-  <img alt="Fastify" src="https://img.shields.io/static/v1?style=for-the-badge&message=Fastify&color=000000&logo=Fastify&logoColor=FFFFFF&label=" />
-    <img alt="Koa" src="https://img.shields.io/static/v1?style=for-the-badge&message=Koa&color=33333D&logo=Koa&logoColor=FFFFFF&label=" />
-  <img alt="gRPC" src="https://img.shields.io/badge/gRPC%20-%236DB33F.svg?&style=flat-square&logo=grpc&logoColor=orange&color=orange" />
-  <img alt="RabbitMQ" src="https://img.shields.io/static/v1?style=for-the-badge&message=RabbitMQ&color=FF6600&logo=RabbitMQ&logoColor=FFFFFF&label=" />
-  <img alt="Swagger" src="https://img.shields.io/static/v1?style=for-the-badge&message=Swagger&color=222222&logo=Swagger&logoColor=85EA2D&label=" />
-  <img alt="Git flow" src="https://img.shields.io/badge/Git flow%20-%236DB33F.svg?&style=flat-square&logo=git&logoColor=white&color=blue" />
-  <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label=" />
-  <img alt="Nest.js", src="https://img.shields.io/static/v1?style=for-the-badge&message=NestJS&color=E0234E&logo=NestJS&logoColor=FFFFFF&label=" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
- <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-F87822?style=flat-square&logo=mysql&logoColor=336791" />
-     <img alt="PstgreSQL" src="https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=4169E1&logo=PostgreSQL&logoColor=FFFFFF&label=" />
-    <img alt="socket.io" src="https://img.shields.io/badge/-Socket.io-ffffff?style=flat-square&logo=socket.io&logoColor=black" />
-    <img alt="Redis" src="https://img.shields.io/badge/-Redis-B02727?style=flat-square&logo=redis&logoColor=white" />
+<h2 align="left">About me</h2>
+<p align="left">
+    Highly motivated and detail-oriented Backend Developer with strong expertise in <b>JavaScript</b> and <b>Node.js</b>, including popular frameworks such as <b>Express.js</b> and <b>NestJS</b>. Experienced in building scalable, secure, and efficient server-side applications, integrating APIs, and optimizing database operations. Possess intermediate-level proficiency in <b>Golang</b>, applying it effectively for high-performance solutions.
+    <br>
+    Passionate about continuous learning, exploring emerging technologies, and improving coding practices to deliver top-quality results. Adept at problem-solving, teamwork, and adapting to dynamic project requirements.
 </p>
 
+<h2 align="left">My Skills...</h2>
 
-<br>
+#### Languages & Frameworks
+[![My Skills](https://skillicons.dev/icons?i=js,ts,go,nodejs,express,nestjs)]()  
+<img src="https://gin-gonic.com/_astro/gin.D6H2T_2v_ZD2G7l.webp" height="40" alt="Gin logo" style="padding:5px; background:#7daff5b0; border-radius:12px" />
 
-## Connect with me
+#### Databases
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,sqlite)]()
 
-[<img align="left" alt="Telegram" src="https://img.shields.io/badge/Telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/erfanyosefi)
-[<img align="left" alt="gmail" src="https://img.shields.io/badge/Gmail-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:yosefierfan@gmail.com)
+#### DevOps
+[![My Skills](https://skillicons.dev/icons?i=docker,linux,bash)]()
+
+#### API
+[![My Skills](https://skillicons.dev/icons?i=graphql)]()  
+<p style="margin-left:15px;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/1200px-Socket-io.svg.png?20200308235956" height="40" style="padding:5px; background:#7daff5b0; border-radius:12px;" alt="Socket.io logo" />
+</p>
+
+#### Queue
+[![My Skills](https://skillicons.dev/icons?i=kafka,rabbitmq)]()
+
+#### Testing
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" style="padding:5px; background:#ddd; border-radius:12px" alt="Jest logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" height="40" style="padding:5px; background:#ddd; border-radius:12px" alt="Mocha logo" />
+  <img src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_chai.png?raw=true" height="40" style="padding:5px; background:#ddd; border-radius:12px" alt="Chai logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/puppeteer/puppeteer-plain.svg" height="40" style="padding:5px; background:#ddd; border-radius:12px" alt="Puppeteer logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jasmine/jasmine-original.svg" height="40" style="padding:5px; background:#ddd; border-radius:12px" alt="Jasmine logo" />
+</div>
+
+---
 
 
-<br>
+<!-- Stats -->
+### 📊 GitHub Stats
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="github stats" height="150"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="streak stats" height="150"/>
+</p>
 
+---
+
+<!-- Activity Graph -->
+### 📈 Contribution Graph
+[![Erfan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+<!-- Connect -->
+### 🤝 Connect with Me
+<p align="left">
+<a href="https://www.linkedin.com/in/erfan-yousefii/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="40" /></a>
+<a href="mailto:erfanyousefi.co@gmail.com"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="email" height="40" /></a>
+</p>
